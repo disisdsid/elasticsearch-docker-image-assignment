@@ -1,4 +1,5 @@
-elasticsearch-docker-image-assignment
+////elasticsearch-docker-image-assignment ![ClipWindowsGIF](https://github.com/disisdsid/elasticsearch-docker-image-assignment/assets/136875283/be556d2b-fe94-491f-a5ae-75a77e807d6a)
+////
 
 #  docker-compose build
 
